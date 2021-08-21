@@ -1,0 +1,5 @@
+name: DamageParticleRemover
+version: '${project.version}'
+main: me.kodysimpson.packetstutorialprotocollib.PacketsTutorialProtocolLib
+api-version: 1.15
+depend: [ProtocolLib]
